@@ -1,0 +1,9 @@
+#Ignor all Database Files
+*.dat
+
+#Ignore Directories
+.idea/
+_pycache_/
+Data/
+dist/
+venv/
