@@ -224,6 +224,6 @@ This project is distributed under the **GNU General Public License v3.0**. See t
 
 ## Author
 
-Developed by **A. K. M. Samiu Haque Barnil**.
+Developed by **A K M Samiu Haque Barnil**.
 
 GitHub: [SamiuHaque](https://github.com/SamiuHaque)
